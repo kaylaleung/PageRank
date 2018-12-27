@@ -1,5 +1,7 @@
 # “Blink”: A Backlinks-Based Page Rank Algorith
 
+#### Carnegie Mellon 21-241 Matrix Algebra Final Project by Kayla Leung and Amy Lu
+
 Our program was coded in Python Version 3.4.6. The NumPy 1.15.4 scientific computing package was used for a
 number of mathematical calculations, specifically for the use of finding the eigenvalues and eigenvectors of a matrix
 as well as finding the inverse and transpose of a matrix.
