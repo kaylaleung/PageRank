@@ -1,4 +1,4 @@
-# “Blink”: A Backlinks-Based Page Rank Algorith
+# “Blink”: A Backlinks-Based Page Rank Algorithm
 
 #### Carnegie Mellon 21-241 Matrix Algebra Final Project by Kayla Leung and Amy Lu
 
